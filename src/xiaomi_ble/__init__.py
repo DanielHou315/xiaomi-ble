@@ -30,7 +30,7 @@ from .cloud import (
 from .devices import SLEEPY_DEVICE_MODELS
 from .parser import EncryptionScheme, XiaomiBluetoothDeviceData
 
-__version__ = "1.22.1"
+__version__ = "1.22.1+mho.h413"
 
 __all__ = [
     "SLEEPY_DEVICE_MODELS",
